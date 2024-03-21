@@ -1,0 +1,1 @@
+Into a project of a singly linked list add method void insertSorted(int el) which is used to insert a new element into a sorted non descending list so that it stays sorted. In the main method, add 7 different values to demonstrate adding to the head, adding to the tail and adding into the list.
