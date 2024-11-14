@@ -1,0 +1,7 @@
+Heš tablica sa spoljašnjim ulančavanjem se koristi za pamćenje podataka o automobilima tako što se za svaki automobil pamti broj šasije automobila, model, kubikaža i broj konjskih snaga. 
+
+Broj šasije je dat u formatu XXYYYYZZZZZZZZBBAA gde je XX oznaka proizvođača, YYYY oznaka modela, redni broj proizvedenog vozila, BB je dvocifrena oznaka godine dok je AA nedelja u godini u kome je proizveden automobil. 
+
+Ažurirati klasu HashObject tako da pamti definisane podatke (atribute, konstruktore i operatore dodele i provere na jednakost) i implementirati funkcije f i g tako da ispunjavaju osnovne zahteve dobre heš funkcije. Radi ilustracije smatrati da je veličina tablice 64 elementa. 
+
+U main funkciji dodati 10 ilustrativnih elemenata i štampati sadržaj tablice. Za dati broj šasije prikazati podatke o automobiliu čiji se podaci nalaze u tablici.
